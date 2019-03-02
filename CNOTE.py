@@ -1,3 +1,5 @@
+# https://www.codechef.com/MARCH15/problems/CNOTE
+
 from sys import stdin
 t = int(stdin.readline())
 
